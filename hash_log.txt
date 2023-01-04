@@ -26,3 +26,4 @@ refactor(utils): fix edge case handling at 2023-05-14T14:28:03
 test(utils): clean up file parsing at 2023-10-25T18:32:03
 chore(utils): update checksum logic at 2023-01-28T14:41:57
 refactor(hash): clean up edge case handling at 2023-01-28T21:32:37
+refactor(hash): update hash validation at 2023-01-04T13:07:47
