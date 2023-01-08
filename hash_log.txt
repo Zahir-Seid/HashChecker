@@ -136,3 +136,4 @@ docs(utils): fix hash validation at 2023-02-13T21:30:21
 docs(crypto): update checksum logic at 2023-02-13T11:07:34
 feat(hash): clean up checksum logic at 2023-02-24T21:09:15
 chore(crypto): improve edge case handling at 2023-01-05T09:56:17
+fix(hash): refactor hash validation at 2023-01-08T09:31:23
