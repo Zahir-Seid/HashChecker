@@ -332,3 +332,4 @@ test(utils): improve file parsing at 2023-10-16T17:24:35
 test(crypto): refactor checksum logic at 2023-02-24T21:24:25
 fix(utils): update checksum logic at 2023-02-24T15:39:51
 fix(utils): refactor file parsing at 2023-01-16T16:20:57
+fix(utils): fix file parsing at 2023-01-16T14:15:31
