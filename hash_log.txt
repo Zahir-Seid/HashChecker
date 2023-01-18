@@ -449,3 +449,4 @@ docs(utils): clean up file parsing at 2023-07-20T15:49:28
 docs(hash): update checksum logic at 2023-12-17T15:55:01
 chore(crypto): update file parsing at 2023-12-17T11:59:01
 docs(utils): improve edge case handling at 2023-01-18T13:24:23
+docs(crypto): update file parsing at 2023-01-18T18:37:39
