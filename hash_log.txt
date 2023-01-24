@@ -47,3 +47,4 @@ chore(hash): clean up file parsing at 2023-03-01T11:24:52
 feat(utils): improve checksum logic at 2023-06-05T19:54:45
 refactor(hash): improve hash validation at 2023-06-05T15:29:01
 refactor(utils): refactor edge case handling at 2023-03-23T18:02:47
+test(utils): refactor hash validation at 2023-01-24T21:21:11
