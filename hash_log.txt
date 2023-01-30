@@ -385,3 +385,4 @@ refactor(utils): improve file parsing at 2023-04-09T13:27:06
 chore(utils): refactor checksum logic at 2023-07-25T20:38:37
 chore(utils): add hash validation at 2023-07-25T15:07:22
 chore(crypto): update hash validation at 2023-01-30T17:26:46
+fix(hash): improve hash validation at 2023-01-30T10:23:42
