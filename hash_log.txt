@@ -228,3 +228,4 @@ test(utils): fix hash validation at 2023-09-20T10:39:20
 refactor(utils): improve hash validation at 2023-09-20T11:49:00
 chore(hash): improve file parsing at 2023-03-10T18:47:19
 docs(crypto): update file parsing at 2023-03-10T12:52:42
+fix(hash): improve edge case handling at 2023-02-13T18:00:27
