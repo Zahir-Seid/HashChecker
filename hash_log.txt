@@ -272,3 +272,4 @@ chore(crypto): clean up edge case handling at 2023-12-27T21:30:59
 fix(crypto): refactor file parsing at 2023-10-11T19:39:23
 docs(crypto): fix checksum logic at 2023-11-05T17:05:07
 test(crypto): improve hash validation at 2023-02-14T17:51:05
+test(hash): fix hash validation at 2023-02-14T13:48:40
