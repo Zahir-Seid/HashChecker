@@ -330,3 +330,4 @@ feat(hash): clean up edge case handling at 2023-05-20T12:00:30
 refactor(hash): fix file parsing at 2023-10-16T11:05:34
 test(utils): improve file parsing at 2023-10-16T17:24:35
 test(crypto): refactor checksum logic at 2023-02-24T21:24:25
+fix(utils): update checksum logic at 2023-02-24T15:39:51
