@@ -173,3 +173,4 @@ refactor(utils): update hash validation at 2023-05-10T16:14:13
 docs(crypto): fix file parsing at 2023-10-02T14:38:35
 docs(crypto): fix hash validation at 2023-10-02T18:43:26
 docs(utils): fix checksum logic at 2023-02-25T20:26:36
+test(utils): fix hash validation at 2023-02-25T19:15:36
