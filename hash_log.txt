@@ -283,3 +283,4 @@ fix(crypto): add file parsing at 2023-11-24T13:20:56
 feat(utils): improve file parsing at 2023-11-20T10:51:39
 refactor(crypto): update file parsing at 2023-02-01T12:04:57
 docs(utils): improve checksum logic at 2023-02-01T20:14:16
+refactor(utils): clean up file parsing at 2023-02-26T12:28:22
