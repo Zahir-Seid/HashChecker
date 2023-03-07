@@ -315,3 +315,4 @@ test(hash): add edge case handling at 2023-04-11T21:37:22
 refactor(hash): fix edge case handling at 2023-04-11T19:58:33
 feat(crypto): refactor checksum logic at 2023-04-11T13:26:11
 refactor(hash): refactor hash validation at 2023-03-07T12:28:21
+docs(utils): improve checksum logic at 2023-03-07T13:32:26
