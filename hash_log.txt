@@ -125,3 +125,4 @@ fix(hash): clean up hash validation at 2023-07-14T14:34:36
 fix(hash): fix checksum logic at 2023-06-27T20:10:58
 test(crypto): add hash validation at 2023-09-24T14:49:39
 fix(utils): clean up hash validation at 2023-03-10T19:36:25
+docs(crypto): fix file parsing at 2023-03-10T13:13:48
