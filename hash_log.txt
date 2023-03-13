@@ -115,3 +115,4 @@ fix(crypto): add file parsing at 2023-07-02T14:26:40
 test(hash): update hash validation at 2023-07-02T18:53:29
 refactor(utils): improve hash validation at 2023-03-24T19:46:06
 docs(hash): add edge case handling at 2023-03-24T10:26:52
+chore(utils): refactor checksum logic at 2023-03-13T09:54:03
