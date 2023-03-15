@@ -358,3 +358,4 @@ docs(crypto): improve checksum logic at 2023-12-04T10:56:38
 feat(utils): fix checksum logic at 2023-11-29T21:49:33
 docs(hash): refactor checksum logic at 2023-11-29T19:49:24
 docs(hash): add checksum logic at 2023-03-15T12:35:23
+refactor(hash): refactor checksum logic at 2023-03-15T09:48:31
