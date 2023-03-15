@@ -216,3 +216,4 @@ chore(utils): clean up file parsing at 2023-05-18T10:19:33
 feat(crypto): improve file parsing at 2023-09-13T17:15:11
 chore(crypto): update edge case handling at 2023-04-13T11:09:33
 feat(hash): refactor checksum logic at 2023-04-13T20:16:57
+test(hash): fix hash validation at 2023-03-15T21:58:41
