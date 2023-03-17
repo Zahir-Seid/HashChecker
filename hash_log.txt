@@ -140,3 +140,4 @@ fix(hash): refactor hash validation at 2023-01-08T09:31:23
 feat(crypto): update checksum logic at 2023-05-29T14:05:04
 docs(hash): improve edge case handling at 2023-10-27T11:25:25
 refactor(utils): fix checksum logic at 2023-07-11T14:50:10
+chore(utils): fix edge case handling at 2023-03-17T12:39:47
