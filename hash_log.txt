@@ -181,3 +181,4 @@ docs(hash): add edge case handling at 2023-02-18T12:53:56
 docs(hash): fix edge case handling at 2023-02-18T13:13:44
 chore(crypto): add file parsing at 2023-02-18T17:39:16
 docs(utils): clean up checksum logic at 2023-03-21T20:10:21
+fix(crypto): fix file parsing at 2023-03-21T18:39:15
