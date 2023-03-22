@@ -259,3 +259,4 @@ refactor(utils): add edge case handling at 2023-09-10T21:07:05
 fix(crypto): improve checksum logic at 2023-03-22T21:09:16
 fix(crypto): add file parsing at 2023-03-22T12:23:53
 docs(utils): update checksum logic at 2023-03-22T21:01:50
+feat(hash): clean up edge case handling at 2023-03-22T11:22:49
