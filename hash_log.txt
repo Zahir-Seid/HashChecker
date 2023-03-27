@@ -263,3 +263,4 @@ feat(hash): clean up edge case handling at 2023-03-22T11:22:49
 docs(hash): add hash validation at 2023-06-09T14:48:17
 fix(crypto): add checksum logic at 2023-04-22T10:03:25
 test(hash): refactor hash validation at 2023-10-20T13:19:00
+feat(crypto): fix checksum logic at 2023-03-27T21:08:06
