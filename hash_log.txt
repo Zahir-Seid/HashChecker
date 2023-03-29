@@ -346,3 +346,4 @@ test(crypto): clean up file parsing at 2023-04-03T14:49:19
 fix(utils): refactor edge case handling at 2023-04-03T12:34:06
 feat(crypto): fix file parsing at 2023-03-29T19:30:07
 feat(crypto): add checksum logic at 2023-03-29T12:33:19
+refactor(hash): improve edge case handling at 2023-03-29T12:13:19
