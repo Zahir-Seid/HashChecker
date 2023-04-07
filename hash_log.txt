@@ -292,3 +292,4 @@ test(crypto): improve checksum logic at 2023-03-18T21:22:07
 test(utils): update checksum logic at 2023-05-17T10:45:29
 chore(crypto): add checksum logic at 2023-05-17T14:38:33
 refactor(hash): fix file parsing at 2023-05-17T19:56:02
+fix(utils): fix hash validation at 2023-04-07T16:28:20
