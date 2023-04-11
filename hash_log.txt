@@ -311,3 +311,4 @@ chore(utils): refactor file parsing at 2023-09-14T18:54:25
 docs(utils): add checksum logic at 2023-03-26T12:01:12
 refactor(crypto): clean up checksum logic at 2023-03-26T14:11:32
 fix(utils): update checksum logic at 2023-11-10T17:01:52
+test(hash): add edge case handling at 2023-04-11T21:37:22
