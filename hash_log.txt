@@ -313,3 +313,4 @@ refactor(crypto): clean up checksum logic at 2023-03-26T14:11:32
 fix(utils): update checksum logic at 2023-11-10T17:01:52
 test(hash): add edge case handling at 2023-04-11T21:37:22
 refactor(hash): fix edge case handling at 2023-04-11T19:58:33
+feat(crypto): refactor checksum logic at 2023-04-11T13:26:11
