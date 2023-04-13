@@ -214,3 +214,4 @@ fix(hash): clean up file parsing at 2023-09-15T09:52:15
 fix(crypto): improve hash validation at 2023-09-15T12:02:14
 chore(utils): clean up file parsing at 2023-05-18T10:19:33
 feat(crypto): improve file parsing at 2023-09-13T17:15:11
+chore(crypto): update edge case handling at 2023-04-13T11:09:33
