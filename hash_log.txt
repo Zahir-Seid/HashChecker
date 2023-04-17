@@ -151,3 +151,4 @@ chore(hash): add checksum logic at 2023-01-16T19:38:23
 chore(hash): refactor hash validation at 2023-01-31T16:28:27
 docs(crypto): clean up edge case handling at 2023-01-31T17:42:32
 feat(hash): clean up file parsing at 2023-01-31T19:35:15
+docs(crypto): improve file parsing at 2023-04-17T18:39:16
