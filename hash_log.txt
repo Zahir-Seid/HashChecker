@@ -261,3 +261,4 @@ fix(crypto): add file parsing at 2023-03-22T12:23:53
 docs(utils): update checksum logic at 2023-03-22T21:01:50
 feat(hash): clean up edge case handling at 2023-03-22T11:22:49
 docs(hash): add hash validation at 2023-06-09T14:48:17
+fix(crypto): add checksum logic at 2023-04-22T10:03:25
