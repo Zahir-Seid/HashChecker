@@ -428,3 +428,4 @@ docs(crypto): fix file parsing at 2023-12-25T16:30:12
 fix(hash): add file parsing at 2023-12-25T17:53:32
 test(utils): fix hash validation at 2023-04-17T19:34:12
 refactor(hash): add hash validation at 2023-05-22T09:48:01
+feat(crypto): improve file parsing at 2023-05-01T16:58:20
