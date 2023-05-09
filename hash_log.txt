@@ -296,3 +296,4 @@ fix(utils): fix hash validation at 2023-04-07T16:28:20
 feat(utils): improve hash validation at 2023-01-05T20:34:31
 test(crypto): add edge case handling at 2023-08-17T10:00:43
 feat(crypto): fix file parsing at 2023-05-02T21:25:25
+chore(hash): clean up file parsing at 2023-05-09T12:50:48
