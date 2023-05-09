@@ -82,3 +82,4 @@ refactor(crypto): fix edge case handling at 2023-08-19T13:11:54
 docs(crypto): fix checksum logic at 2023-05-08T16:12:08
 chore(hash): improve edge case handling at 2023-06-03T18:52:01
 feat(hash): improve file parsing at 2023-05-09T16:36:39
+fix(hash): refactor file parsing at 2023-05-09T18:28:35
