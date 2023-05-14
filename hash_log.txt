@@ -22,3 +22,4 @@ test(utils): clean up file parsing at 2023-04-19T10:50:29
 docs(crypto): improve hash validation at 2023-04-19T14:18:33
 refactor(hash): add checksum logic at 2023-04-11T21:06:41
 chore(hash): add checksum logic at 2023-06-26T12:41:47
+refactor(utils): fix edge case handling at 2023-05-14T14:28:03
