@@ -289,3 +289,4 @@ refactor(hash): refactor checksum logic at 2023-10-06T10:48:00
 fix(crypto): add file parsing at 2023-03-18T13:15:11
 feat(crypto): refactor edge case handling at 2023-03-18T19:39:41
 test(crypto): improve checksum logic at 2023-03-18T21:22:07
+test(utils): update checksum logic at 2023-05-17T10:45:29
