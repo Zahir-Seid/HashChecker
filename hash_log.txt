@@ -221,3 +221,4 @@ test(utils): add edge case handling at 2023-12-28T12:21:13
 feat(hash): fix checksum logic at 2023-11-12T09:59:31
 chore(utils): improve hash validation at 2023-11-12T11:21:51
 test(crypto): clean up edge case handling at 2023-11-12T21:40:01
+feat(crypto): fix checksum logic at 2023-05-19T11:27:04
