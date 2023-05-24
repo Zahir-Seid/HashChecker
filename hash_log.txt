@@ -143,3 +143,4 @@ refactor(utils): fix checksum logic at 2023-07-11T14:50:10
 chore(utils): fix edge case handling at 2023-03-17T12:39:47
 refactor(hash): update hash validation at 2023-05-24T10:15:48
 chore(hash): update edge case handling at 2023-05-24T11:35:47
+fix(hash): clean up checksum logic at 2023-05-24T13:44:43
