@@ -406,3 +406,4 @@ test(utils): add file parsing at 2023-03-17T20:01:33
 feat(hash): improve hash validation at 2023-03-17T11:54:51
 docs(utils): improve file parsing at 2023-03-17T18:59:45
 refactor(crypto): refactor file parsing at 2023-04-28T15:37:53
+chore(utils): refactor checksum logic at 2023-06-08T10:02:16
