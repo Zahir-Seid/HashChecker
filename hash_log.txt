@@ -41,3 +41,4 @@ test(hash): improve file parsing at 2023-04-28T21:41:04
 test(crypto): refactor checksum logic at 2023-11-11T19:26:26
 docs(crypto): clean up checksum logic at 2023-11-11T12:28:22
 docs(utils): refactor file parsing at 2023-06-09T15:39:08
+fix(utils): update checksum logic at 2023-06-09T16:25:00
