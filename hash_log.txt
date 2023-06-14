@@ -340,3 +340,4 @@ refactor(utils): add checksum logic at 2023-08-30T10:28:04
 refactor(hash): update hash validation at 2023-08-30T13:02:16
 docs(hash): clean up file parsing at 2023-08-30T19:44:32
 test(utils): add file parsing at 2023-08-18T12:43:47
+refactor(utils): refactor edge case handling at 2023-06-14T16:17:19
