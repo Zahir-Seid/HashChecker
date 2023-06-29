@@ -90,3 +90,4 @@ chore(crypto): fix checksum logic at 2023-10-26T21:08:04
 chore(crypto): add file parsing at 2023-11-30T19:18:36
 chore(utils): update file parsing at 2023-11-30T10:10:14
 feat(utils): refactor hash validation at 2023-11-30T12:19:27
+docs(crypto): update hash validation at 2023-06-29T14:10:38
