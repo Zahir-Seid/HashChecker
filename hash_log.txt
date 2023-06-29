@@ -380,3 +380,4 @@ test(hash): update checksum logic at 2023-07-27T21:26:54
 feat(utils): refactor file parsing at 2023-10-05T21:54:38
 fix(crypto): clean up hash validation at 2023-10-05T20:04:03
 feat(crypto): add edge case handling at 2023-06-29T11:26:55
+test(utils): update file parsing at 2023-06-29T18:26:06
