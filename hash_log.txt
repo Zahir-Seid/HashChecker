@@ -187,3 +187,4 @@ refactor(hash): clean up file parsing at 2023-11-23T19:45:46
 docs(hash): add hash validation at 2023-05-04T18:28:11
 refactor(utils): clean up hash validation at 2023-05-04T18:43:42
 refactor(crypto): add file parsing at 2023-05-04T14:53:29
+feat(crypto): clean up hash validation at 2023-07-07T12:09:35
