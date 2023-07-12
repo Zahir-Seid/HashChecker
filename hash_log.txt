@@ -4,3 +4,4 @@ test(crypto): refactor checksum logic at 2023-04-07T10:23:18
 docs(crypto): refactor edge case handling at 2023-12-06T18:55:52
 test(utils): clean up edge case handling at 2023-12-06T18:08:03
 chore(crypto): update edge case handling at 2023-04-29T09:41:29
+feat(crypto): improve file parsing at 2023-07-12T19:54:53
