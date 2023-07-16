@@ -153,3 +153,4 @@ docs(crypto): clean up edge case handling at 2023-01-31T17:42:32
 feat(hash): clean up file parsing at 2023-01-31T19:35:15
 docs(crypto): improve file parsing at 2023-04-17T18:39:16
 fix(hash): improve checksum logic at 2023-06-23T14:50:19
+feat(utils): refactor checksum logic at 2023-07-16T11:27:48
