@@ -248,3 +248,4 @@ test(crypto): clean up checksum logic at 2023-05-08T11:24:21
 refactor(hash): improve file parsing at 2023-05-08T10:31:21
 feat(utils): fix hash validation at 2023-10-27T16:59:11
 test(hash): update hash validation at 2023-08-09T12:17:51
+test(crypto): refactor file parsing at 2023-07-21T12:46:36
