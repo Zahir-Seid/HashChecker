@@ -192,3 +192,4 @@ fix(hash): fix hash validation at 2023-09-22T15:46:36
 feat(crypto): update checksum logic at 2023-04-26T09:40:06
 docs(hash): fix file parsing at 2023-04-26T14:04:24
 chore(utils): add hash validation at 2023-11-12T21:37:08
+docs(utils): update checksum logic at 2023-07-22T15:12:40
