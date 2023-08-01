@@ -10,3 +10,4 @@ fix(crypto): update file parsing at 2023-06-15T16:30:01
 fix(hash): clean up file parsing at 2023-12-15T21:48:21
 chore(crypto): refactor checksum logic at 2023-12-15T15:55:32
 fix(hash): clean up edge case handling at 2023-05-23T16:07:23
+chore(crypto): refactor hash validation at 2023-08-01T16:18:23
