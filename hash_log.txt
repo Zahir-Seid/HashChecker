@@ -104,3 +104,4 @@ test(utils): improve checksum logic at 2023-04-12T19:03:29
 fix(hash): add file parsing at 2023-04-12T21:04:43
 refactor(utils): update hash validation at 2023-03-26T18:53:35
 chore(crypto): fix edge case handling at 2023-08-05T11:20:08
+refactor(crypto): refactor checksum logic at 2023-08-05T14:43:00
