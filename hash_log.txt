@@ -435,3 +435,4 @@ fix(utils): refactor hash validation at 2023-11-09T16:17:52
 test(crypto): update hash validation at 2023-11-09T19:31:15
 refactor(crypto): improve checksum logic at 2023-01-13T21:23:38
 fix(utils): update file parsing at 2023-01-13T11:47:37
+docs(crypto): refactor file parsing at 2023-08-08T11:53:10
