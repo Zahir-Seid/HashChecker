@@ -338,3 +338,4 @@ chore(crypto): improve file parsing at 2023-06-07T10:43:36
 feat(utils): fix checksum logic at 2023-04-18T16:27:48
 refactor(utils): add checksum logic at 2023-08-30T10:28:04
 refactor(hash): update hash validation at 2023-08-30T13:02:16
+docs(hash): clean up file parsing at 2023-08-30T19:44:32
