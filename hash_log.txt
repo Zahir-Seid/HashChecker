@@ -274,3 +274,4 @@ docs(crypto): fix checksum logic at 2023-11-05T17:05:07
 test(crypto): improve hash validation at 2023-02-14T17:51:05
 test(hash): fix hash validation at 2023-02-14T13:48:40
 refactor(hash): fix hash validation at 2023-02-14T12:58:26
+feat(utils): fix checksum logic at 2023-09-07T19:32:45
