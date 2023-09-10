@@ -255,3 +255,4 @@ feat(hash): fix edge case handling at 2023-01-12T09:25:50
 chore(hash): add edge case handling at 2023-01-12T20:28:35
 feat(utils): clean up hash validation at 2023-09-10T13:10:13
 refactor(utils): add hash validation at 2023-09-10T16:46:04
+refactor(utils): add edge case handling at 2023-09-10T21:07:05
