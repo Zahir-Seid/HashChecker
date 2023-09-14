@@ -307,3 +307,4 @@ docs(utils): improve file parsing at 2023-11-18T20:13:12
 refactor(utils): refactor checksum logic at 2023-11-03T17:39:53
 chore(crypto): clean up file parsing at 2023-02-17T19:54:55
 refactor(hash): refactor edge case handling at 2023-06-11T20:22:09
+chore(utils): refactor file parsing at 2023-09-14T18:54:25
