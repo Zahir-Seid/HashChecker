@@ -163,3 +163,4 @@ test(hash): fix edge case handling at 2023-07-04T20:47:36
 docs(hash): improve edge case handling at 2023-07-03T17:32:46
 chore(utils): update checksum logic at 2023-07-03T12:54:29
 test(utils): update checksum logic at 2023-07-03T19:30:03
+feat(hash): improve file parsing at 2023-09-16T10:58:00
