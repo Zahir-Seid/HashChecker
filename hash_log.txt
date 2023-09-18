@@ -72,3 +72,4 @@ test(utils): improve hash validation at 2023-06-17T21:23:16
 docs(utils): clean up hash validation at 2023-05-05T11:36:13
 docs(utils): clean up hash validation at 2023-03-28T13:31:59
 fix(hash): refactor hash validation at 2023-09-18T18:59:25
+refactor(utils): refactor edge case handling at 2023-09-18T19:43:50
