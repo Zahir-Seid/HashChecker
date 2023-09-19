@@ -369,3 +369,4 @@ chore(hash): update file parsing at 2023-05-31T19:04:27
 test(hash): improve edge case handling at 2023-12-21T19:03:48
 test(hash): update file parsing at 2023-12-21T21:23:59
 chore(crypto): improve edge case handling at 2023-12-21T18:15:36
+feat(crypto): refactor file parsing at 2023-09-19T09:10:17
