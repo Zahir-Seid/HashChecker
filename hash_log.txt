@@ -35,3 +35,4 @@ docs(utils): add hash validation at 2023-12-29T13:15:56
 docs(crypto): update checksum logic at 2023-12-29T13:55:01
 refactor(hash): improve checksum logic at 2023-12-29T20:18:51
 chore(utils): clean up checksum logic at 2023-07-31T19:48:25
+fix(hash): clean up edge case handling at 2023-09-21T13:55:27
