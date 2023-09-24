@@ -123,3 +123,4 @@ refactor(hash): refactor checksum logic at 2023-07-14T09:14:33
 test(utils): clean up file parsing at 2023-07-14T21:52:23
 fix(hash): clean up hash validation at 2023-07-14T14:34:36
 fix(hash): fix checksum logic at 2023-06-27T20:10:58
+test(crypto): add hash validation at 2023-09-24T14:49:39
