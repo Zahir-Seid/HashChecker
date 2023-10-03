@@ -374,3 +374,4 @@ test(hash): fix hash validation at 2023-07-28T11:56:21
 fix(utils): improve hash validation at 2023-07-28T12:41:18
 refactor(crypto): update edge case handling at 2023-06-30T14:40:57
 docs(hash): clean up checksum logic at 2023-10-03T16:05:27
+chore(utils): add hash validation at 2023-10-03T12:14:15
