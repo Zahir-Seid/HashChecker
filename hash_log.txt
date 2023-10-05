@@ -377,3 +377,4 @@ docs(hash): clean up checksum logic at 2023-10-03T16:05:27
 chore(utils): add hash validation at 2023-10-03T12:14:15
 docs(utils): fix hash validation at 2023-09-09T16:15:48
 test(hash): update checksum logic at 2023-07-27T21:26:54
+feat(utils): refactor file parsing at 2023-10-05T21:54:38
