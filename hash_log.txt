@@ -270,3 +270,4 @@ feat(hash): refactor edge case handling at 2023-09-28T19:52:00
 refactor(utils): improve edge case handling at 2023-12-27T12:37:51
 chore(crypto): clean up edge case handling at 2023-12-27T21:30:59
 fix(crypto): refactor file parsing at 2023-10-11T19:39:23
+docs(crypto): fix checksum logic at 2023-11-05T17:05:07
