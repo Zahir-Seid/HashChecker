@@ -301,3 +301,4 @@ refactor(utils): update edge case handling at 2023-03-16T09:10:25
 fix(crypto): refactor edge case handling at 2023-12-16T09:05:54
 test(utils): clean up edge case handling at 2023-03-14T21:30:22
 fix(utils): fix edge case handling at 2023-03-14T14:26:32
+fix(crypto): fix checksum logic at 2023-11-13T17:46:04
