@@ -201,3 +201,4 @@ feat(utils): fix edge case handling at 2023-08-14T18:50:54
 fix(crypto): clean up checksum logic at 2023-01-01T18:03:14
 chore(hash): update file parsing at 2023-01-01T11:19:34
 fix(utils): update file parsing at 2023-11-13T20:01:22
+chore(utils): improve edge case handling at 2023-11-13T09:03:44
