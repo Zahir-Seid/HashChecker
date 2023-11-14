@@ -14,3 +14,4 @@ chore(crypto): refactor hash validation at 2023-08-01T16:18:23
 feat(crypto): clean up file parsing at 2023-08-01T18:41:12
 test(crypto): refactor checksum logic at 2023-04-05T19:41:22
 fix(crypto): add checksum logic at 2023-09-20T21:38:26
+fix(hash): add checksum logic at 2023-11-14T10:42:12
