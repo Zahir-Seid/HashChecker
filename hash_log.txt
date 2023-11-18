@@ -303,3 +303,4 @@ test(utils): clean up edge case handling at 2023-03-14T21:30:22
 fix(utils): fix edge case handling at 2023-03-14T14:26:32
 fix(crypto): fix checksum logic at 2023-11-13T17:46:04
 chore(hash): update file parsing at 2023-08-21T17:07:01
+docs(utils): improve file parsing at 2023-11-18T20:13:12
