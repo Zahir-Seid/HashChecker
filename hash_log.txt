@@ -280,3 +280,4 @@ fix(hash): clean up hash validation at 2023-10-13T10:08:16
 test(hash): improve edge case handling at 2023-10-02T14:01:24
 chore(utils): refactor file parsing at 2023-10-02T17:19:27
 fix(crypto): add file parsing at 2023-11-24T13:20:56
+feat(utils): improve file parsing at 2023-11-20T10:51:39
