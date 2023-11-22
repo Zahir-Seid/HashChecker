@@ -97,3 +97,4 @@ feat(utils): add file parsing at 2023-04-21T20:09:13
 test(utils): add hash validation at 2023-08-11T16:46:29
 test(hash): update file parsing at 2023-08-11T10:15:15
 feat(hash): refactor checksum logic at 2023-11-22T16:17:27
+chore(utils): clean up hash validation at 2023-11-22T13:59:42
