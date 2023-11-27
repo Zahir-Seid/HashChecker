@@ -156,3 +156,4 @@ fix(hash): improve checksum logic at 2023-06-23T14:50:19
 feat(utils): refactor checksum logic at 2023-07-16T11:27:48
 refactor(crypto): fix checksum logic at 2023-01-30T15:12:09
 refactor(crypto): clean up checksum logic at 2023-11-17T11:40:40
+chore(crypto): refactor file parsing at 2023-11-27T19:17:43
