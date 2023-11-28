@@ -1,5 +1,3 @@
-# HashChecker
-
 # File Hash Checker
 
 ## Overview
