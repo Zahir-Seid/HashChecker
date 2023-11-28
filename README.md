@@ -12,6 +12,7 @@ This Python script is a simple tool for checking the integrity of a file by comp
 
 ## Requirements
 - Python 3.x
+- hashlib library (`pip install hashlib`)
 - colorama library (`pip install colorama`)
 
 ## Usage
