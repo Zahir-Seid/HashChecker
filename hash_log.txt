@@ -355,3 +355,4 @@ fix(hash): clean up hash validation at 2023-06-06T10:34:02
 fix(hash): clean up checksum logic at 2023-06-06T18:58:47
 test(crypto): update edge case handling at 2023-12-04T17:45:38
 docs(crypto): improve checksum logic at 2023-12-04T10:56:38
+feat(utils): fix checksum logic at 2023-11-29T21:49:33
