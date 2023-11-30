@@ -87,3 +87,4 @@ refactor(utils): clean up edge case handling at 2023-12-26T16:38:00
 feat(crypto): refactor hash validation at 2023-10-18T10:14:41
 fix(utils): improve edge case handling at 2023-10-26T09:12:07
 chore(crypto): fix checksum logic at 2023-10-26T21:08:04
+chore(crypto): add file parsing at 2023-11-30T19:18:36
