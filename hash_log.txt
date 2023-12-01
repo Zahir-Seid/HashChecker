@@ -195,3 +195,4 @@ chore(utils): add hash validation at 2023-11-12T21:37:08
 docs(utils): update checksum logic at 2023-07-22T15:12:40
 refactor(utils): add edge case handling at 2023-12-01T13:54:56
 docs(utils): fix edge case handling at 2023-12-01T11:06:26
+fix(crypto): refactor checksum logic at 2023-12-01T19:36:14
