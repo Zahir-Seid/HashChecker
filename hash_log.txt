@@ -353,3 +353,4 @@ fix(utils): refactor checksum logic at 2023-01-03T12:46:28
 refactor(utils): refactor edge case handling at 2023-04-10T17:45:32
 fix(hash): clean up hash validation at 2023-06-06T10:34:02
 fix(hash): clean up checksum logic at 2023-06-06T18:58:47
+test(crypto): update edge case handling at 2023-12-04T17:45:38
