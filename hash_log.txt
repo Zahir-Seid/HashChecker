@@ -325,3 +325,4 @@ feat(utils): update checksum logic at 2023-03-28T15:08:30
 chore(crypto): fix file parsing at 2023-05-12T21:01:28
 feat(hash): improve file parsing at 2023-05-12T13:27:25
 feat(utils): refactor hash validation at 2023-05-12T17:33:49
+chore(utils): fix checksum logic at 2023-12-06T16:41:58
