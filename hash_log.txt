@@ -8,3 +8,4 @@ feat(crypto): improve file parsing at 2023-07-12T19:54:53
 chore(hash): fix hash validation at 2023-11-09T10:40:02
 fix(crypto): update file parsing at 2023-06-15T16:30:01
 fix(hash): clean up file parsing at 2023-12-15T21:48:21
+chore(crypto): refactor checksum logic at 2023-12-15T15:55:32
