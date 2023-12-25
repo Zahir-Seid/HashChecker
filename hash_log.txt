@@ -425,3 +425,4 @@ test(hash): improve checksum logic at 2023-12-25T12:37:22
 fix(crypto): clean up edge case handling at 2023-12-25T20:43:41
 refactor(hash): fix file parsing at 2023-12-25T10:08:44
 docs(crypto): fix file parsing at 2023-12-25T16:30:12
+fix(hash): add file parsing at 2023-12-25T17:53:32
