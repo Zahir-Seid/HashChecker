@@ -217,3 +217,4 @@ feat(crypto): improve file parsing at 2023-09-13T17:15:11
 chore(crypto): update edge case handling at 2023-04-13T11:09:33
 feat(hash): refactor checksum logic at 2023-04-13T20:16:57
 test(hash): fix hash validation at 2023-03-15T21:58:41
+test(utils): add edge case handling at 2023-12-28T12:21:13
